@@ -46,7 +46,7 @@
 #define STATE_PARSE5			12 // ignoring unknown chunk before "fmt "
 #define STATE_STOP			13
 
-extern LittleFS_SPINAND myfs;  // Not sure how to avoid this declaration???
+extern LittleFS_SPINAND myfs;  // Not sure how to avoid this???
 
 void AudioPlayLFSWav::begin(void)
 {
