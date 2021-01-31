@@ -1,2 +1,2 @@
 # littleFSWavPlayer
-This a littleFS version of the Teensy WavFilePlayer.
+This is a littleFS version of the Teensy WavFilePlayer.
